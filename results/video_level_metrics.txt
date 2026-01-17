@@ -1,0 +1,4 @@
+Video-level Accuracy (tau=1.0): 1.000000
+Confusion matrix:
+[[1 0]
+ [0 1]]

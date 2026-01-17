@@ -1,0 +1,15 @@
+BASELINE Accuracy: 0.887265
+
+Classification report:
+              precision    recall  f1-score   support
+
+        wave       0.98      0.79      0.88      2435
+        walk       0.82      0.99      0.90      2355
+
+    accuracy                           0.89      4790
+   macro avg       0.90      0.89      0.89      4790
+weighted avg       0.90      0.89      0.89      4790
+
+Confusion matrix:
+[[1929  506]
+ [  34 2321]]
