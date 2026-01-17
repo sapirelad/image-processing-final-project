@@ -25,8 +25,8 @@ data_raw/
 Each directory contains short video clips (≈7 seconds each).
 
 ## Dataset Size
-- Train set: 2 videos per class
-- Test set: 2 videos per class
+- Train set: 2 videos per class (4 total)
+- Test set: 1 video per class (2 total)
 
 ## Preprocessing
 The following preprocessing steps are applied:
