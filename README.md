@@ -1,4 +1,3 @@
-# image-processing-final-project
 # Image Processing – Motion Classification Project
 
 ## Overview
@@ -43,4 +42,5 @@ All experiments were run with a fixed random seed.
 The full pipeline is executable from the provided notebook.
 
 ## References
-- Course paper on spatio-temporal DCT-based motion classification
+- Keren, D. (2003). Recognizing image "style" and activities in video 
+using local features and naive Bayes. Pattern Recognition Letters, 24(16), 2913–2922.
